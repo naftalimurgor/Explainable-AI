@@ -26,7 +26,8 @@ Reasons why explainability is ideal:
 2. Forecasts maybe more transparent: Distinguishing between false and true causality
 3. Models must be explained without compromising/sacrificing the quality of learning experiences/iterations
 
-### The mission of XAI: 
+### The mission of XAI:
+
 **Reliability**: Model prediction's confidence, stability, resilience are critical aspects of model reliability
 
 
@@ -49,3 +50,14 @@ components to convey the significance of specific model parameters.
 
 - **Trust**: Data quality, true causability, and algorithm choice all play a role in determining the
 
+## Tools for Model Explainability
+There are techniques and frameworks to better understand ML and DL models.
+
+#### SHAP (Shappley Additive exPlanations)
+SHAP may employ different strategies and approaches for multiple models, except for time series
+
+
+## Credits
+
+**Adrien Peyong**: https://thepythoncode.com/article/explainable-ai-model-python (A Guide to Explainable AI
+Using Python)
