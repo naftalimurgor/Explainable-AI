@@ -1,5 +1,19 @@
 # Explainable-AI
 
+## Getting started
+
+```sh
+git clone https://github.com/naftalimurgor/Explainable-AI
+
+## Activate virtual env 
+source venv/bin/activate
+
+## Install packages
+pip install -r requirements.txt
+```
+
+## Introduction
+
 - The need for Explainable AI keeps growing as the adoption of AI grows. This is majorly due to the fact that Models growth in complexity the outputs can not be justified.
 
 - The code samples(from a Colab example) serve to unbox the so-called black-box ML models.
