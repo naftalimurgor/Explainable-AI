@@ -70,6 +70,18 @@ There are techniques and frameworks to better understand ML and DL models.
 #### SHAP (Shappley Additive exPlanations)
 SHAP may employ different strategies and approaches for multiple models, except for time series
 
+**SHAP on Github**: https://github.com/shap/shap
+
+#### LIME (Local Interpretable Model-agnostic Explanations)
+
+https://thepythoncode.com/article/explainable-ai-model-python
+- Local Interpretable Model-Agnostic Explanations is the acronym for LIME. The term "local"
+refers to the explanation of the class predicted by the model based on its location. The
+classifier's activity in the locale vicinity provides valuable insight into the predictions.
+When we say a prediction is "interpretable", it implies that a human being can understand it.
+
+- -So, the class prediction must be understandable. Model agnostic means that the system and
+technique should generate the interpretations instead of requiring knowledge of a particular
 
 ## Credits
 
